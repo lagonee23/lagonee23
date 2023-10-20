@@ -1,7 +1,7 @@
 # About Me
 
 * Country: <img src="https://github.com/lagonee23/lagonee23/assets/59104524/a16d5c3d-beac-4c14-bd85-e89fc5b762a2" width="15"/> Republic of Korea
-* Email: 📧 <a href="mailto:lagonee23@gmail.com">lagonee23@gmail.com</a> <br><br>
+* Email: 📧 <a href="malito:lagonee23@gmail.com">lagonee23@gmail.com</a> <br><br>
 
 # Languages & Tools
 <p>
