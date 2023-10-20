@@ -1,9 +1,9 @@
-# About Me
+## About Me
 
 * Country: <img src="https://github.com/lagonee23/lagonee23/assets/59104524/a16d5c3d-beac-4c14-bd85-e89fc5b762a2" width="15"/> Republic of Korea
 * Email: 📧 <a href="mailto:lagonee23@gmail.com">lagonee23@gmail.com</a> <br><br>
 
-# Languages & Tools
+## Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
@@ -14,7 +14,7 @@
 </p>
 <br>
 
-# Open source Projects
+## Open source Projects
 <table>
   <thead align="center">
     <tr border: none;>
@@ -37,7 +37,7 @@
 </table>
 <br>
 
-# Stats
+## Stats
 <div>
  		<img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=lagonee23&show_icons=true" />
   	<img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lagonee23&layout=compact&langs_count=8&card_width=320" />
