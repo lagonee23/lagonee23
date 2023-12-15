@@ -33,6 +33,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/lagonee23/game-analysis?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lagonee23/game-analysis?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/lagonee23/price-prediction-models"><b>암호화폐 가격 예측</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lagonee23/price-prediction-models?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lagonee23/price-prediction-models?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/lagonee23/price-prediction-models?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lagonee23/price-prediction-models?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 <br>
