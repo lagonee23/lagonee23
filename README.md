@@ -41,6 +41,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/lagonee23/price-prediction-models?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lagonee23/price-prediction-models?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>c</td>
+      <td>d</td>
+      <td>d</td>
+    </tr>
   </tbody>
 </table>
 <br>
