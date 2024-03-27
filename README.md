@@ -42,11 +42,11 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lagonee23/price-prediction-models?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td>a</td>
-      <td>b</td>
-      <td>c</td>
-      <td>d</td>
-      <td>d</td>
+      <td><a href="https://github.com/lagonee23/mydjango"><b>육각지뢰찾기 게임</b></a></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
