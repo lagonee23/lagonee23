@@ -52,6 +52,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/lagonee23/mydjango?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lagonee23/mydjango?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/lagonee23/asuka-community"><b>단어장 웹사이트</b></a></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 <br>
